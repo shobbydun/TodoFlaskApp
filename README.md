@@ -14,3 +14,8 @@ Add Task: Users can add new tasks to their to-do list.
 View Tasks: Users can see all the tasks they have added.
 Update Task: Users can mark tasks as completed.
 Delete Task: Users can remove tasks from the list.
+
+
+
+![Screenshot (18)](https://github.com/shobbydun/TodoFlaskApp/assets/87327873/a43c2d59-3589-4ec8-bb5b-fe259a395798)
+
